@@ -1,4 +1,4 @@
-/* ------------ Basic ------------ */
+/* ------------ youtube.com/CodeExplained ------------ */
 body{
     padding: 0;
     margin: 0;
@@ -22,7 +22,6 @@ body{
     background-repeat: no-repeat;
     border-radius: 15px 15px 0 0;
     position: relative;
-
 }
 .clear{
     width : 30px;
@@ -51,10 +50,9 @@ body{
 
 /* ------------ content ------------ */
 .content{
-    width: 380px;
+    width:380px;
     height: 350px;
     max-height:350px;
-    margin-left: 37.5%;
     background-color: #FFF;
     overflow: auto;
 }
@@ -115,7 +113,6 @@ body{
 /* ------------ add item ------------ */
 .add-to-do{
     position: relative;
-    left: 37.5%;
     width: 360px;
     height:40px;
     background-color: #FFF;
